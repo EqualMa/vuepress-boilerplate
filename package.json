@@ -46,7 +46,7 @@
     ]
   },
   "dependencies": {
-    "@hapi/joi": "^15.1.0",
+    "@hapi/joi": "^15.1.1",
     "front-matter": "^3.0.2"
   }
 }
